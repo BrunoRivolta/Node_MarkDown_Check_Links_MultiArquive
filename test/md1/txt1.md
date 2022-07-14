@@ -1,0 +1,1 @@
+São geralmente recuperados a partir de um objeto resultado da seleção, pelo usuário, de arquivos através do elemento, a partir do objeto utilizado em operações de arrastar e soltar, ou a partir da API `mozGetAsFile()` em um

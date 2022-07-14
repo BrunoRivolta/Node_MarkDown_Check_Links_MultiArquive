@@ -1,0 +1,36 @@
+{
+  "name": "md-check-links-multiArquive",
+  "version": "1.0.0",
+  "description": "Verifica os links de vários arquivos markdown em uma pasta",
+  "keywords": ["md", "markdown", "links", "check", "verifica", "varios arquivos"],
+  "main": "./cli.js",
+  "bin": {
+    "md-check-links-multiArquive": "./cli.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "jest ./test/ --coverage",
+    "cli": "node cli.js ./arquivos/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoRivolta/v.git"
+  },
+  "author": "Bruno Rivolta",
+  "license": "ISC",
+  "bugs": {
+    "url" : "https://github.com/BrunoRivolta/<nome-projeto>/issues",
+    "email" : "bruno.toniati@homail.com"
+  },
+  "homepage": "https://brunorivolta.x10.mx/",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.6",
+    "babel-jest": "^28.1.2",
+    "jest": "^28.1.2"
+  }
+}
