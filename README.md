@@ -1,5 +1,5 @@
 <a id="MarkDown"></a>
-Node MarkDown Check Links
+Node MarkDown Check Links Multi-Arquive
 =========
 
 Este projeto em Node.js que  acessa vários arquivos markdown (.md) dentro de uma pasta e verifica os links, após isso é gerado um relatório de links quebrados, caso exista algum.
@@ -24,7 +24,7 @@ Instalação
 
 *Instalação via NPM*
 ```bash
-$ npm install -g md-check-links-multiArquive
+$ npm install -g markdown-checklinks-multiarquive
 ```
 
 <a id="como-usar"></a>

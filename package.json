@@ -1,5 +1,5 @@
 {
-  "name": "md-check-links-multiArquive",
+  "name": "markdown-checklinks-multiarquive",
   "version": "1.0.0",
   "description": "Verifica os links de vários arquivos markdown em uma pasta",
   "keywords": ["md", "markdown", "links", "check", "verifica", "varios arquivos"],
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoRivolta/v.git"
+    "url": "git+https://github.com/BrunoRivolta/Node_MarkDown_Check_Links_MultiArquive.git"
   },
   "author": "Bruno Rivolta",
   "license": "ISC",
   "bugs": {
-    "url" : "https://github.com/BrunoRivolta/<nome-projeto>/issues",
+    "url" : "https://github.com/BrunoRivolta/Node_MarkDown_Check_Links_MultiArquive/issues",
     "email" : "bruno.toniati@homail.com"
   },
   "homepage": "https://brunorivolta.x10.mx/",
