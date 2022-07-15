@@ -1,6 +1,6 @@
 {
   "name": "markdown-checklinks-multiarquive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Verifica os links de vários arquivos markdown em uma pasta",
   "keywords": ["md", "markdown", "links", "check", "verifica", "varios arquivos"],
   "main": "./cli.js",

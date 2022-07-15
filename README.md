@@ -4,6 +4,9 @@ Node MarkDown Check Links Multi-Arquive
 
 Este projeto em Node.js que  acessa vários arquivos markdown (.md) dentro de uma pasta e verifica os links, após isso é gerado um relatório de links quebrados, caso exista algum.
 
+<img src="https://brunorivolta.x10.mx/imagens/markdownProject.png" alt="Projeto MarkDown"/>
+
+
 <a id="tabela-de-conteudo"></a>
 Tabela de conteúdos
 =================
@@ -12,7 +15,7 @@ Tabela de conteúdos
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+      * [Pré Requisitos](#pre-requisitos)
       * [Dependências](#dependencias)
    * [Tests](#teste)
    * [Tecnologias](#tecnologias).
@@ -84,13 +87,13 @@ Desenvolvido para node.js.
 Contato
 =================
 
-<img src="https://img.icons8.com/fluency/344/apple-mail.png" alt="drawing" width="50"/>bruno.toniati@hotmail.com 
+<img src="https://img.icons8.com/fluency/344/apple-mail.png" alt="Email" width="50"/>bruno.toniati@hotmail.com 
 
-<img src="https://img.icons8.com/fluency/344/window.png" alt="drawing" width="50"/>https://brunorivolta.x10.mx/
+<img src="https://img.icons8.com/fluency/344/window.png" alt="WebSite" width="50"/>https://brunorivolta.x10.mx/
 
-<img src="https://img.icons8.com/color/344/github.png" alt="drawing" width="50"/>https://github.com/BrunoRivolta
+<img src="https://img.icons8.com/color/344/github.png" alt="GitHub" width="50"/>https://github.com/BrunoRivolta
 
-<img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="drawing" width="50"/>https://www.linkedin.com/in/brunorivolta/
+<img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Linkedin" width="50"/>https://www.linkedin.com/in/brunorivolta/
 
 
 
