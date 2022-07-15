@@ -13,6 +13,7 @@ Tabela de conteúdos
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
+      * [Dependências](#dependencias)
    * [Tests](#teste)
    * [Tecnologias](#tecnologias).
    * [Contato](#contato)
@@ -22,7 +23,11 @@ Tabela de conteúdos
 Instalação
 =================
 
-*Instalação via NPM*
+Baixe o projeto no GitHub
+
+https://github.com/BrunoRivolta/Node_MarkDown_Check_Links_MultiArquive
+
+*Instalação das dependências via NPM*
 ```bash
 $ npm install -g markdown-checklinks-multiarquive
 ```
@@ -45,6 +50,12 @@ $ npm run cli validar
 
 <a id="pre-requisitos"></a>
 Pré Requisitos
+=================
+
+* Node.js
+
+<a id="dependencias"></a>
+Dependências
 =================
 
 * chalk
